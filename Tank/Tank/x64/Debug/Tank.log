@@ -1,0 +1,7 @@
+﻿  Tank.cpp
+D:\C++Project\Tank\Tank\Tank.cpp(157,17): warning C4309: =: усечение константного значения
+D:\C++Project\Tank\Tank\Tank.cpp(194,29): warning C4309: =: усечение константного значения
+D:\C++Project\Tank\Tank\Tank.cpp(196,29): warning C4309: =: усечение константного значения
+D:\C++Project\Tank\Tank\Tank.cpp(235,48): warning C4553: "==": результат выражения не используется; вы хотели использовать "="?
+D:\C++Project\Tank\Tank\Tank.cpp(244,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  Tank.vcxproj -> D:\C++Project\Tank\x64\Debug\Tank.exe

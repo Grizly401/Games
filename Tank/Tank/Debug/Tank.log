@@ -1,0 +1,3 @@
+﻿  Tank.cpp
+D:\C++Project\Tank\Tank\Tank.cpp(72,17): warning C4309: =: усечение константного значения
+  Tank.vcxproj -> D:\C++Project\Tank\Debug\Tank.exe
