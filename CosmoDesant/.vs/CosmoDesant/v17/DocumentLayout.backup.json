@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\C\u002B\u002BProject\\CosmoDesant\\",
+  "WorkspaceRootPath": "D:\\GitUnreal\\GameJam\\Games\\CosmoDesant\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{21F7DB3A-8B65-46F3-9F10-FC2D25A8E2E3}|CosmoDesant\\CosmoDesant.vcxproj|D:\\C\u002B\u002BProject\\CosmoDesant\\CosmoDesant\\CosmoDesant.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{21F7DB3A-8B65-46F3-9F10-FC2D25A8E2E3}|CosmoDesant\\CosmoDesant.vcxproj|D:\\GitUnreal\\GameJam\\Games\\CosmoDesant\\CosmoDesant\\CosmoDesant.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{21F7DB3A-8B65-46F3-9F10-FC2D25A8E2E3}|CosmoDesant\\CosmoDesant.vcxproj|solutionrelative:CosmoDesant\\CosmoDesant.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "CosmoDesant.cpp",
-              "DocumentMoniker": "D:\\C\u002B\u002BProject\\CosmoDesant\\CosmoDesant\\CosmoDesant.cpp",
+              "DocumentMoniker": "D:\\GitUnreal\\GameJam\\Games\\CosmoDesant\\CosmoDesant\\CosmoDesant.cpp",
               "RelativeDocumentMoniker": "CosmoDesant\\CosmoDesant.cpp",
-              "ToolTip": "D:\\C\u002B\u002BProject\\CosmoDesant\\CosmoDesant\\CosmoDesant.cpp*",
-              "RelativeToolTip": "CosmoDesant\\CosmoDesant.cpp*",
-              "ViewState": "AgIAAGAAAAAAAAAAAADwv28AAAAAAAAAAAAAAA==",
+              "ToolTip": "D:\\GitUnreal\\GameJam\\Games\\CosmoDesant\\CosmoDesant\\CosmoDesant.cpp",
+              "RelativeToolTip": "CosmoDesant\\CosmoDesant.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAA3AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-30T11:32:16.664Z",
               "EditorCaption": ""

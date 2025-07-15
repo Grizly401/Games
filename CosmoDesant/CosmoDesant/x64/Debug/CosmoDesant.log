@@ -1,2 +1,18 @@
-﻿  CosmoDesant.cpp
+﻿  GameManager.cpp
+D:\C++Project\CosmoDesant\CosmoDesant\GameConstants.h(9,25): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "GameManager.cpp")
+  
+D:\C++Project\CosmoDesant\CosmoDesant\GameConstants.h(10,25): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "GameManager.cpp")
+  
+D:\C++Project\CosmoDesant\CosmoDesant\GameConstants.h(13,24): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "GameManager.cpp")
+  
+D:\C++Project\CosmoDesant\CosmoDesant\GameConstants.h(14,24): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "GameManager.cpp")
+  
+D:\C++Project\CosmoDesant\CosmoDesant\GameConstants.h(15,24): warning C4309: инициализация: усечение константного значения
+  (компиляция исходного файла "GameManager.cpp")
+  
+D:\C++Project\CosmoDesant\CosmoDesant\GameManager.cpp(7,25): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
   CosmoDesant.vcxproj -> D:\C++Project\CosmoDesant\x64\Debug\CosmoDesant.exe

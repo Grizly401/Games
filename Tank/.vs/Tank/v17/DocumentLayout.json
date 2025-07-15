@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\C\u002B\u002BProject\\Tank\\",
+  "WorkspaceRootPath": "D:\\GitUnreal\\GameJam\\Games\\Tank\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{374C426D-E0C1-42ED-BFCD-CD868DCA77A5}|Tank\\Tank.vcxproj|D:\\C\u002B\u002BProject\\Tank\\Tank\\Tank.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{374C426D-E0C1-42ED-BFCD-CD868DCA77A5}|Tank\\Tank.vcxproj|D:\\GitUnreal\\GameJam\\Games\\Tank\\Tank\\Tank.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{374C426D-E0C1-42ED-BFCD-CD868DCA77A5}|Tank\\Tank.vcxproj|solutionrelative:Tank\\Tank.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Tank.cpp",
-              "DocumentMoniker": "D:\\C\u002B\u002BProject\\Tank\\Tank\\Tank.cpp",
+              "DocumentMoniker": "D:\\GitUnreal\\GameJam\\Games\\Tank\\Tank\\Tank.cpp",
               "RelativeDocumentMoniker": "Tank\\Tank.cpp",
-              "ToolTip": "D:\\C\u002B\u002BProject\\Tank\\Tank\\Tank.cpp",
+              "ToolTip": "D:\\GitUnreal\\GameJam\\Games\\Tank\\Tank\\Tank.cpp",
               "RelativeToolTip": "Tank\\Tank.cpp",
-              "ViewState": "AgIAABsAAAAAAAAAAAAAACcAAAA5AAAAAAAAAA==",
+              "ViewState": "AgIAAHMAAAAAAAAAAAD4v4EAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-19T16:01:36.772Z",
               "EditorCaption": ""

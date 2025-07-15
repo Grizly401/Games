@@ -128,6 +128,17 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="CosmoDesant.cpp" />
+    <ClCompile Include="Enemy.cpp" />
+    <ClCompile Include="GameManager.cpp" />
+    <ClCompile Include="Pula.cpp" />
+    <ClCompile Include="ShipChar.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Enemy.h" />
+    <ClInclude Include="GameConstants.h" />
+    <ClInclude Include="GameManager.h" />
+    <ClInclude Include="Pula.h" />
+    <ClInclude Include="ShipChar.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

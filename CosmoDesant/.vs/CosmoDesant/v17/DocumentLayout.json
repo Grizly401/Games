@@ -1,10 +1,46 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\C\u002B\u002BProject\\CosmoDesant\\",
+  "WorkspaceRootPath": "D:\\GitUnreal\\GameJam\\Games\\CosmoDesant\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{21F7DB3A-8B65-46F3-9F10-FC2D25A8E2E3}|CosmoDesant\\CosmoDesant.vcxproj|D:\\C\u002B\u002BProject\\CosmoDesant\\CosmoDesant\\CosmoDesant.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{21F7DB3A-8B65-46F3-9F10-FC2D25A8E2E3}|CosmoDesant\\CosmoDesant.vcxproj|D:\\GitUnreal\\GameJam\\Games\\CosmoDesant\\CosmoDesant\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{21F7DB3A-8B65-46F3-9F10-FC2D25A8E2E3}|CosmoDesant\\CosmoDesant.vcxproj|solutionrelative:CosmoDesant\\GameManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F7DB3A-8B65-46F3-9F10-FC2D25A8E2E3}|CosmoDesant\\CosmoDesant.vcxproj|D:\\GitUnreal\\GameJam\\Games\\CosmoDesant\\CosmoDesant\\CosmoDesant.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{21F7DB3A-8B65-46F3-9F10-FC2D25A8E2E3}|CosmoDesant\\CosmoDesant.vcxproj|solutionrelative:CosmoDesant\\CosmoDesant.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F7DB3A-8B65-46F3-9F10-FC2D25A8E2E3}|CosmoDesant\\CosmoDesant.vcxproj|D:\\GitUnreal\\GameJam\\Games\\CosmoDesant\\CosmoDesant\\GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{21F7DB3A-8B65-46F3-9F10-FC2D25A8E2E3}|CosmoDesant\\CosmoDesant.vcxproj|solutionrelative:CosmoDesant\\GameManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F7DB3A-8B65-46F3-9F10-FC2D25A8E2E3}|CosmoDesant\\CosmoDesant.vcxproj|D:\\GitUnreal\\GameJam\\Games\\CosmoDesant\\CosmoDesant\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{21F7DB3A-8B65-46F3-9F10-FC2D25A8E2E3}|CosmoDesant\\CosmoDesant.vcxproj|solutionrelative:CosmoDesant\\Enemy.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F7DB3A-8B65-46F3-9F10-FC2D25A8E2E3}|CosmoDesant\\CosmoDesant.vcxproj|D:\\GitUnreal\\GameJam\\Games\\CosmoDesant\\CosmoDesant\\GameConstants.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{21F7DB3A-8B65-46F3-9F10-FC2D25A8E2E3}|CosmoDesant\\CosmoDesant.vcxproj|solutionrelative:CosmoDesant\\GameConstants.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F7DB3A-8B65-46F3-9F10-FC2D25A8E2E3}|CosmoDesant\\CosmoDesant.vcxproj|D:\\GitUnreal\\GameJam\\Games\\CosmoDesant\\CosmoDesant\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{21F7DB3A-8B65-46F3-9F10-FC2D25A8E2E3}|CosmoDesant\\CosmoDesant.vcxproj|solutionrelative:CosmoDesant\\Enemy.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F7DB3A-8B65-46F3-9F10-FC2D25A8E2E3}|CosmoDesant\\CosmoDesant.vcxproj|D:\\GitUnreal\\GameJam\\Games\\CosmoDesant\\CosmoDesant\\Pula.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{21F7DB3A-8B65-46F3-9F10-FC2D25A8E2E3}|CosmoDesant\\CosmoDesant.vcxproj|solutionrelative:CosmoDesant\\Pula.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F7DB3A-8B65-46F3-9F10-FC2D25A8E2E3}|CosmoDesant\\CosmoDesant.vcxproj|D:\\GitUnreal\\GameJam\\Games\\CosmoDesant\\CosmoDesant\\ShipChar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{21F7DB3A-8B65-46F3-9F10-FC2D25A8E2E3}|CosmoDesant\\CosmoDesant.vcxproj|solutionrelative:CosmoDesant\\ShipChar.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F7DB3A-8B65-46F3-9F10-FC2D25A8E2E3}|CosmoDesant\\CosmoDesant.vcxproj|D:\\GitUnreal\\GameJam\\Games\\CosmoDesant\\CosmoDesant\\ShipChar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{21F7DB3A-8B65-46F3-9F10-FC2D25A8E2E3}|CosmoDesant\\CosmoDesant.vcxproj|solutionrelative:CosmoDesant\\ShipChar.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{21F7DB3A-8B65-46F3-9F10-FC2D25A8E2E3}|CosmoDesant\\CosmoDesant.vcxproj|D:\\GitUnreal\\GameJam\\Games\\CosmoDesant\\CosmoDesant\\Pula.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{21F7DB3A-8B65-46F3-9F10-FC2D25A8E2E3}|CosmoDesant\\CosmoDesant.vcxproj|solutionrelative:CosmoDesant\\Pula.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,20 +50,130 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ShipChar.h",
+              "DocumentMoniker": "D:\\GitUnreal\\GameJam\\Games\\CosmoDesant\\CosmoDesant\\ShipChar.h",
+              "RelativeDocumentMoniker": "CosmoDesant\\ShipChar.h",
+              "ToolTip": "D:\\GitUnreal\\GameJam\\Games\\CosmoDesant\\CosmoDesant\\ShipChar.h",
+              "RelativeToolTip": "CosmoDesant\\ShipChar.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-01T17:37:29.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GameManager.cpp",
+              "DocumentMoniker": "D:\\GitUnreal\\GameJam\\Games\\CosmoDesant\\CosmoDesant\\GameManager.cpp",
+              "RelativeDocumentMoniker": "CosmoDesant\\GameManager.cpp",
+              "ToolTip": "D:\\GitUnreal\\GameJam\\Games\\CosmoDesant\\CosmoDesant\\GameManager.cpp",
+              "RelativeToolTip": "CosmoDesant\\GameManager.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-01T15:24:44.187Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "GameManager.h",
+              "DocumentMoniker": "D:\\GitUnreal\\GameJam\\Games\\CosmoDesant\\CosmoDesant\\GameManager.h",
+              "RelativeDocumentMoniker": "CosmoDesant\\GameManager.h",
+              "ToolTip": "D:\\GitUnreal\\GameJam\\Games\\CosmoDesant\\CosmoDesant\\GameManager.h",
+              "RelativeToolTip": "CosmoDesant\\GameManager.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-01T15:22:48.028Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "CosmoDesant.cpp",
-              "DocumentMoniker": "D:\\C\u002B\u002BProject\\CosmoDesant\\CosmoDesant\\CosmoDesant.cpp",
+              "DocumentMoniker": "D:\\GitUnreal\\GameJam\\Games\\CosmoDesant\\CosmoDesant\\CosmoDesant.cpp",
               "RelativeDocumentMoniker": "CosmoDesant\\CosmoDesant.cpp",
-              "ToolTip": "D:\\C\u002B\u002BProject\\CosmoDesant\\CosmoDesant\\CosmoDesant.cpp",
+              "ToolTip": "D:\\GitUnreal\\GameJam\\Games\\CosmoDesant\\CosmoDesant\\CosmoDesant.cpp",
               "RelativeToolTip": "CosmoDesant\\CosmoDesant.cpp",
-              "ViewState": "AgIAADAAAAAAAAAAAAAAAD0AAAA3AAAAAAAAAA==",
+              "ViewState": "AgIAAJwAAAAAAAAAAADwv00AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-05-30T11:32:16.664Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Enemy.cpp",
+              "DocumentMoniker": "D:\\GitUnreal\\GameJam\\Games\\CosmoDesant\\CosmoDesant\\Enemy.cpp",
+              "RelativeDocumentMoniker": "CosmoDesant\\Enemy.cpp",
+              "ToolTip": "D:\\GitUnreal\\GameJam\\Games\\CosmoDesant\\CosmoDesant\\Enemy.cpp",
+              "RelativeToolTip": "CosmoDesant\\Enemy.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-01T15:23:46.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Enemy.h",
+              "DocumentMoniker": "D:\\GitUnreal\\GameJam\\Games\\CosmoDesant\\CosmoDesant\\Enemy.h",
+              "RelativeDocumentMoniker": "CosmoDesant\\Enemy.h",
+              "ToolTip": "D:\\GitUnreal\\GameJam\\Games\\CosmoDesant\\CosmoDesant\\Enemy.h",
+              "RelativeToolTip": "CosmoDesant\\Enemy.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-01T15:22:35.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "GameConstants.h",
+              "DocumentMoniker": "D:\\GitUnreal\\GameJam\\Games\\CosmoDesant\\CosmoDesant\\GameConstants.h",
+              "RelativeDocumentMoniker": "CosmoDesant\\GameConstants.h",
+              "ToolTip": "D:\\GitUnreal\\GameJam\\Games\\CosmoDesant\\CosmoDesant\\GameConstants.h",
+              "RelativeToolTip": "CosmoDesant\\GameConstants.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-01T15:29:38.658Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Pula.cpp",
+              "DocumentMoniker": "D:\\GitUnreal\\GameJam\\Games\\CosmoDesant\\CosmoDesant\\Pula.cpp",
+              "RelativeDocumentMoniker": "CosmoDesant\\Pula.cpp",
+              "ToolTip": "D:\\GitUnreal\\GameJam\\Games\\CosmoDesant\\CosmoDesant\\Pula.cpp",
+              "RelativeToolTip": "CosmoDesant\\Pula.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-09T15:04:38.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ShipChar.cpp",
+              "DocumentMoniker": "D:\\GitUnreal\\GameJam\\Games\\CosmoDesant\\CosmoDesant\\ShipChar.cpp",
+              "RelativeDocumentMoniker": "CosmoDesant\\ShipChar.cpp",
+              "ToolTip": "D:\\GitUnreal\\GameJam\\Games\\CosmoDesant\\CosmoDesant\\ShipChar.cpp",
+              "RelativeToolTip": "CosmoDesant\\ShipChar.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-07-09T15:04:37.626Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Pula.h",
+              "DocumentMoniker": "D:\\GitUnreal\\GameJam\\Games\\CosmoDesant\\CosmoDesant\\Pula.h",
+              "RelativeDocumentMoniker": "CosmoDesant\\Pula.h",
+              "ToolTip": "D:\\GitUnreal\\GameJam\\Games\\CosmoDesant\\CosmoDesant\\Pula.h",
+              "RelativeToolTip": "CosmoDesant\\Pula.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-07-01T17:37:52.921Z"
             }
           ]
         }

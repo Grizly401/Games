@@ -5,6 +5,7 @@
 
 using namespace std;
 
+//Размер карты 
 #define width 80 
 #define height 25
 
@@ -12,14 +13,16 @@ using namespace std;
 #define fbrick 176
 #define fstone 206
 
+//Обозначение символов для танка 
 #define duloV 179
 #define duloH 205 
 #define tankC 219
 #define catter '#'
 
+//Тип данных для карты 
 typedef char mapHW[height][width];
 
-
+//Функция установки положения курсора в консоли 
 void SetCurPos(int x, int y) {
 
     COORD coord;
@@ -34,8 +37,9 @@ bool IsCross(RECT a, RECT b) {
         && (a.bottom >= b.top) && (a.top <= b.bottom);
 }
 
+//Структура управления картой 
 struct Tmap {
-
+    //Сама карта 
     mapHW map;
     void Clear() { memset(map, field, sizeof(map) - 1); }
     void SetEnd() { map[height - 1][width - 1] = '\0'; }
@@ -73,7 +77,7 @@ class Tbrick {
 public:
     bool use; 
     Tmatter tp;
-    Tbrick() { use = 0l, tp = ttBrick; }
+    Tbrick() { use = 0, tp = ttBrick; }
     void Show(mapHW& map);
     void SetPos(int px, int py) { RECT r = { px - 1,py - 1,px + 1,py + 1 }; rct = r; use = 1; }
     RECT GetRect() { return rct; }
@@ -166,7 +170,8 @@ void Ttank::Move(char w, char s, char a, char d, char fire) {
     char wasd[4] = { w,a,s,d };
 
     for (int i = 0; i < 4; i++)
-        if (GetKeyState(wasd[i]) < 0) dir = (Tdir)i;
+        if (GetKeyState(wasd[i]) < 0) 
+            dir = (Tdir)i;
 
     POINT pt = dirInc[dir];
     Ttank old = *this;
@@ -209,17 +214,21 @@ void Tpula::Move() {
         y += dirInc[dir].y;
         RECT rct = { x,y,x,y };
 
-        if (!IsCross(rct, areaPula)) use = 0;
+        if (!IsCross(rct, areaPula)) 
+            use = 0;
 
         Tbrick* brick = CheckCrossAnyBrick(rct);
 
-        if (brick) use = 0, brick->use = (brick->tp == ttStone);
+        if (brick) 
+            use = 0, brick->use = (brick->tp == ttStone);
 
         Ttank* tank = CheckCrossAnyTank(rct, 0);
 
-        if (tank) use = 0, tank->SetToStart();
+        if (tank) 
+            use = 0, tank->SetToStart();
 
-        if (!use) return;
+        if (!use) 
+            return;
     }
 }
 

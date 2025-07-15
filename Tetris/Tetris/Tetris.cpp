@@ -136,6 +136,9 @@ void TGame::Move() {
 			figure.Put(field.fld);
 			figure.Shape(shpArr[rand() % SHP_ARR_CNT]);
 			figure.Pos(FLD_WIDTH / 2 - SHP_WIDTH / 2, 0);
+				
+			if (figure.Check() > 0)
+				field.Clear();
 		}
 
 		field.Burning();
@@ -258,18 +261,15 @@ void TField::Burning() {
 		static bool fillLine;
 		fillLine = true;
 
-		for (int i = 0; i < FLD_WIDTH; i++) {
-
+		for (int i = 0; i < FLD_WIDTH; i++)		
 			if (fld[j][i] != C_FIG_DOWN)
 				fillLine = false;
 
-			if (fillLine) {
-
-				for (int y = j; y >= 1; y--) {
-					memcpy(fld[y], fld[y - 1], sizeof(fld[y]));
-					return;
-				}
-			}
+		if (fillLine) 
+		{
+			for (int y = j; y >= 1; y--)
+				memcpy(fld[y], fld[y - 1], sizeof(fld[y]));
+			return;
 		}
 	}
 }
